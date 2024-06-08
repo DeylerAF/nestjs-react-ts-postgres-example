@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/DeylerAF/nestjs-react-ts-postgres-example-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/DeylerAF/nestjs-react-ts-postgres-example-frontend.git
